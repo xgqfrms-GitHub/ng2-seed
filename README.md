@@ -1,5 +1,7 @@
 # ng2-seed: Angular2 seed    
 
+![](https://img.shields.io/npm/v/ng2-seed.svg?style=flat-square) ![](https://img.shields.io/npm/dm/ng2-seed.svg?style=flat-square)
+
 > All guides and cookbooks have at least these core files.   
 
 `(app.component.ts, app.module.ts, main.ts)  `
@@ -21,10 +23,10 @@ https://angular.io/docs/ts/latest/guide/setup.html
 ## ng2-seed
 
 
-G:\wwwRoot\ng2-seed
+> G:\wwwRoot\ng2-seed
 
 ```sh
-
+    
 $ npm publish --tag stable
 
 ```
@@ -40,6 +42,7 @@ https://github.com/xgqfrms/ng2-seed
 
 
 ```json
+    
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xgqfrms/ng2-seed.git"
@@ -85,13 +88,15 @@ B copy A & A deletee A
 🎅❄🎄🎁🔀⛄🔔 ng2seed: All guides and cookbooks have at least these core files. 
 (app.component.ts, app.module.ts, main.ts )https://angular.io/docs/ts/latest/guide/setup.html
 
+https://docs.npmjs.com/cli/publish
+
 
 ```sh
-$ npm-publish
+$ npm publish
 
 ```
 
-package.json
+> package.json
 
 ```js
 
